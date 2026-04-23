@@ -12,7 +12,11 @@
   "type": "commonjs",
   "private": "true",
   "dependencies": {
+    "dotenv": "^17.4.2",
     "express": "^5.2.1"
   },
-  "repository": "https://github.com/msalnazaryan-ops/express-app.git"
+  "repository": "https://github.com/msalnazaryan-ops/express-app.git",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
